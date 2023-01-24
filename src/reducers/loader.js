@@ -1,7 +1,7 @@
 const dataLoader = {
-    namaDepan: "Maman",
-    namaBelakang: "Sulaeman",
-    job: "Software Engineer",
+    namaDepan: "Sahril",
+    namaBelakang: "Azis",
+    job: "Front End",
 }
 
 export const loader = (state = dataLoader, action) => {

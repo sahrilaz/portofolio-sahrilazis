@@ -2,12 +2,12 @@ const dataSkill = {
   code: [
     { nama: "HTML & CSS", persen: "90%" },
     { nama: "Bootstrap", persen: "85%" },
-    { nama: "Python", persen: "80%" },
+    // { nama: "Python", persen: "10%" },
     { nama: "Javascript", persen: "80%" },
     { nama: "PHP", persen: "70%" },
-    { nama: "ReactJS", persen: "80%" },
-    { nama: "React Native", persen: "80%" },
-    { nama: "ExpressJS", persen: "90%" },
+    // { nama: "ReactJS", persen: "10%" },
+    // { nama: "React Native", persen: "10%" },
+    // { nama: "ExpressJS", persen: "10%" },
   ],
   professional: [
     { nama: "Communication", persen: "80%" },

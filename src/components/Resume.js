@@ -64,7 +64,7 @@ class Resume extends Component {
                   {/* content */}
                   <div className="graduation-description">
                     <p>
-                      Saya lulusan tahun 2020, di Universitas PancaSakti Bekasi,
+                      Saya lulusan tahun 2023, di Universitas Pamulang Tanggerang,
                     </p>
                   </div>
                   {/* /Content */}
@@ -98,9 +98,7 @@ class Resume extends Component {
                   {/* content */}
                   <div className="graduation-description">
                     <p>
-                      saya bekerja di pt karya komponen presisi sebagai operator
-                      dan quality assurance selama 2 tahun, job desk: mengukur
-                      dan memastikan semua part berdimensi ok
+                      saya bekerja di PT Sky Parking Utama, sebagai Technical Support IT selama 3 Tahun. Job Desk saya memastikan System Operasional berjalan normal, dan problem solving jika terjadi kendala mengenai system.
                     </p>
                   </div>
                   {/* /Content */}
