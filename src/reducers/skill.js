@@ -16,7 +16,7 @@ const dataSkill = {
   ],
   software: [
     { nama: "Adobe Photoshop", persen: "60%" },
-    { nama: "Adobe Illustrator", persen: "60%" },
+    { nama: "Adobe Illustrator", persen: "50%" },
   ],
 };
 

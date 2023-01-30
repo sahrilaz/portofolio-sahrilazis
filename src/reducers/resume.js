@@ -1,5 +1,5 @@
 const dataResume = {
-  foto: "asset/img/me.png",
+  foto: "asset/img/riel.png",
   nama: "Sahril Azis",
   kuote:
     "saya Sahril Azis fresh graduate, miliki kemampuan programming, Javascript, HTML dan php, telah membuat beberapa project. Saya juga terbiasa mengoperasikan OS Linux,",
